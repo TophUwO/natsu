@@ -1,0 +1,7 @@
+- plug-ins for additional UI elements, overrides for existing controls/widgets
+- additional widgets
+- additional SRS algorithms
+- additional resources and overrides
+
+- via native C++ dlls
+- (via Python?)

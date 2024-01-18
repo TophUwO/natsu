@@ -1,0 +1,10 @@
+- accent color for icons, automatic re-rendering of icons
+- icons are cached so they do not need to be redrawn every time they are loaded
+- accent color can be a gradient (linear, radial, ...) or a solid color
+- color schemes for application (light, dark, more elaborate, ...)
+- FOR WINDOWS 10+ (and all OSses that expose APIs to monitor and query):
+ - use system-defined accent color, update without app restart
+ - use system-defined theme (dark, light)
+- animated windows?
+- predefined application styles?
+- icon overrides by plug-ins?
