@@ -1,0 +1,8 @@
+- global web-service to store and share decks, character strokes/packs, etc.
+- sync with other devices
+- paid or funded via donations? -> long-term sustainability plan
+- automatic updates of app, character strokes, etc.
+- automatic plug-in updates when plug-ins are registered?
+- user and developer documentation online (DOXYGEN-based)
+- forum?
+- devlogs?

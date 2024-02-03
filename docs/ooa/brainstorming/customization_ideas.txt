@@ -8,3 +8,5 @@
 - animated windows?
 - predefined application styles?
 - icon overrides by plug-ins?
+
+- color scheme and application style editor?

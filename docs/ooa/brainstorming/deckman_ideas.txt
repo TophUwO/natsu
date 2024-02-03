@@ -1,0 +1,12 @@
+- tree view showing decks, sub-decks, and review items
+- dependencies:
+ - sub-deck is unlocked as soon as dependencies (unlocking/passing/reviewing/burning) other decks was accomplished
+ - inside sub-decks, dependencies between review items and decks (and decks and decks, and review item and review item) on the same level\
+- dep ideas:
+ - unlocked
+ - first seen
+ - answered correctly
+ - answered x times (in total/in a row) <=> passed <=> burned
+
+- cycle detection
+- visualization of dep graph?

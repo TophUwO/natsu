@@ -1,0 +1,10 @@
+- developer console (logging for each plug-in)
+- exception handling for each plug-in (-> exception safety)
+- stack trace
+- log files
+- clear log files (manually or automatically when getting big, getting many, getting old, etc.)
+- daily rotating log files
+- session log files
+- plug-in specific log files
+- filter dev console for severity and/or sender
+- mock-reviews for testing review plug-ins (mock review decks may be built into the application)
